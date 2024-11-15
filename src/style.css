@@ -1,0 +1,55 @@
+.workspace{
+    background-color: white;
+    padding: 30px;
+    margin: 100px;
+    justify-content: space-evenly;
+    border: 3px solid; 
+    box-shadow: 100%;
+    border: 50px 50px 50px 50px;
+}
+.cv-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.firstsection{
+    display:flex ;
+    justify-self: right;
+    flex-direction: column;
+}
+.personal-information{
+    display:flex ;
+    background-color: rgb(164, 126, 81);
+    justify-content: center;
+}
+.h3{
+    color: aqua;
+}
+.cover{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 30px;
+}
+.change-color1{
+    color: blue;
+}
+.change-color2{
+    color: blue;
+}
+.change-color3{
+    color:blue ;
+}
+.change-color4{
+    color: blue;
+}
+.change-position{
+    margin-right: 20px;
+}
+.all{
+    display: flex;
+}
+.h1{
+    color: #09a05a;
+
+}
